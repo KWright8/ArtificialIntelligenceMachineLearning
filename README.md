@@ -4,9 +4,8 @@
 [MNIST Dataset](https://colab.research.google.com/drive/1zSlUWFiWr31uiX9aqrMS3dHtcHbLLBLw)
 
 ## Homework 2 
-[Problem 1](https://colab.research.google.com/drive/15UPIyBuPBFv_Xk3v44AGa9tSLyX7NlbZ) <br />
-[Problem 2](https://colab.research.google.com/drive/17Fna3lBQmSqs2INmH0UnALCJXrqnp-LI) <br />
-[Problem 3](https://colab.research.google.com/drive/1J0uzMQWpA6eOP2N9o2o5sgUKIf1iUsG8)
+[Classification of MNIST Dataset](https://colab.research.google.com/drive/15UPIyBuPBFv_Xk3v44AGa9tSLyX7NlbZ) <br />
+[Overfitting, Underfitting, Good fitting Visualization](https://colab.research.google.com/drive/17Fna3lBQmSqs2INmH0UnALCJXrqnp-LI) <br />
 
 ## Homework 3
 [Problem 1](https://colab.research.google.com/drive/1mYJQSK3eJAJaSqQf9QbYihWzOWnplA-M)
